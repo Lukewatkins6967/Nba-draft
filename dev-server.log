@@ -1,0 +1,16 @@
+
+> nba-scouting-app@1.0.0 dev
+> next dev
+
+   ▲ Next.js 15.5.14
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.69:3000
+
+ ✓ Starting...
+ ✓ Ready in 1990ms
+ ○ Compiling /scout ...
+ ✓ Compiled /scout in 8.6s (2415 modules)
+ GET /scout 200 in 10324ms
+ ✓ Compiled in 2.1s (1145 modules)
+ GET /scout 200 in 373ms
+ ✓ Compiled in 1083ms (1131 modules)

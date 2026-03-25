@@ -1,0 +1,35 @@
+{
+  "name": "nba-scouting-app",
+  "version": "1.0.0",
+  "description": "Modern AI basketball scouting app for rating college players and predicting NBA potential",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "api-dev": "node api/server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "csv-parse": "^5.5.0",
+    "framer-motion": "^11.0.3",
+    "next": "^15.2.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.10.3",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.0",
+    "@types/uuid": "^10.0.0",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.55.0",
+    "eslint-config-next": "^15.2.1",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.3.3"
+  }
+}
